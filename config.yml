@@ -21,7 +21,7 @@ language: "en"
 datestart: 2026-01-20
 enddate: 2026-01-23
 
-# instructors: ["Eunah Cho", "Meha Gupta", "Anna Corbet Schlenz", "Parisa Setayesh", "Ian Williams", "Lisa Rhody", "Zach Lloyd", "Stephen Zweibel"]
+instructors: ["Eunah Cho", "Meha Gupta", "Anna Corbet Schlenz", "Parisa Setayesh", "Ian Williams", "Lisa Rhody", "Zach Lloyd", "Stephen Zweibel"]
 
 workshopsuser: 'GC-DRI'
 workshopsrepo: 'DRI26' 
